@@ -4,7 +4,7 @@ function Child(){
     return (
         <div>
             <App />
-            <TestFunc name='test 1234'/>
+            <TestFunc name='test 1234 5'/>
         </div>
     )
 }
